@@ -24,9 +24,10 @@
 			"name": "Schrödingcat",
 			"age": "-3"
 		},
+		{},
 		{
-			"name": "Mistoffeles",
-			"age": "12"
+			"name": "Chocolate",
+			"age": "2"
 		}
 	]
 }
